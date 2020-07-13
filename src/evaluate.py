@@ -7,7 +7,7 @@ import numpy as np
 
 
 class Evaluation(object):
-
+  # 评估
   def make_samples(self):
     raise NotImplementedError("Needs to implemented this method")
 
