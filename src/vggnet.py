@@ -26,7 +26,7 @@ VGG_model = 'vgg19'  # model type
 pick_layer = 'avg'    # extract feature of this layer
 d_type = 'd1'     # distance type
 
-depth = 3        # retrieved depth, set to None will count the ap for whole database
+depth = 1        # retrieved depth, set to None will count the ap for whole database
 
 ''' MMAP
      depth
