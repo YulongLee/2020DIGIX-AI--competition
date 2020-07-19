@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- #
 
 from __future__ import print_function
 from src.evaluate import distance, evaluate_class
