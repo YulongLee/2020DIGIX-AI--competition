@@ -1,1 +1,1 @@
-# 2020DIGIX-AI--competition
+# 2020DIGIX-AI-competition
